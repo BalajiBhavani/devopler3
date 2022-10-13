@@ -1,1 +1,2 @@
 Hii all today we are learning about git commands like git push git gull git commit 
+as well as we are learning about linux commands 
